@@ -5,6 +5,8 @@ computeSales.py
 Compute total sales cost based on a price catalogue and sales record.
 """
 
+# pylint: disable=invalid-name
+
 import json
 import sys
 import time
