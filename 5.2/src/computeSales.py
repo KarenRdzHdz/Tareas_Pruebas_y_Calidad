@@ -80,7 +80,6 @@ def compute_sales_total(price_dict, sales_record):
 
             if quantity < 0:
                 print(f"WARNING: Negative quantity -> {sale}")
-                continue
 
             total_cost += price_dict[product_name] * quantity
 
