@@ -71,8 +71,8 @@ def compute_sales_total(price_dict, sales_record):
 
     for sale in sales_record:
         try:
-            product_name = sale["title"]
-            quantity = int(sale["quantity"])
+            product_name = sale["Product"]
+            quantity = int(sale["Quantity"])
 
             if product_name not in price_dict:
                 print(f"WARNING: Product not found -> {product_name}")
