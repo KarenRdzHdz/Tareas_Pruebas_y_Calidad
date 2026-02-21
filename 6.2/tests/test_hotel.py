@@ -1,6 +1,5 @@
 """Unit tests for Hotel model."""
 
-import os
 import unittest
 from models.hotel import Hotel
 from storage.file_manager import FileManager

@@ -1,6 +1,6 @@
 """Hotel model."""
 
-from typing import Dict, List
+from typing import Dict
 from storage.file_manager import FileManager
 
 
