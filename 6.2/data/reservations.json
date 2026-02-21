@@ -1,11 +1,11 @@
 [
     {
-        "reservation_id": "de5256fc-8daf-4a8a-be98-374b04d29c30",
+        "reservation_id": "28ba2929-b1ee-4371-9faa-e319c73b7d82",
         "customer_id": "C1",
         "hotel_id": "H1"
     },
     {
-        "reservation_id": "45fd0fef-c209-421b-a7a4-5f166ee7c460",
+        "reservation_id": "f8606ef5-0faf-499c-8905-7c96a2742579",
         "customer_id": "C1",
         "hotel_id": "H1"
     }
